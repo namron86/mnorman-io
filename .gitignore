@@ -23,6 +23,7 @@ go.work
 # Terraform
 build/terraform.tfstate*
 build/.terraform/*
+build/bin/*
 
 # MacOS
 .DS_Store
